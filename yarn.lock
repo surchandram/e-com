@@ -940,7 +940,7 @@ cloudinary-core@^2.10.2:
   resolved "https://registry.npmjs.org/cloudinary-core/-/cloudinary-core-2.13.0.tgz"
   integrity sha512-Nt0Q5I2FtenmJghtC4YZ3MZZbGg1wLm84SsxcuVwZ83OyJqG9CNIGp86CiI6iDv3QobaqBUpOT7vg+HqY5HxEA==
 
-cloudinary@^1.21.0, cloudinary@1.31.0:
+cloudinary@^1.21.0, cloudinary@^1.31.0:
   version "1.31.0"
   resolved "https://registry.npmjs.org/cloudinary/-/cloudinary-1.31.0.tgz"
   integrity sha512-+A/x0gsmzBya4KPabY6Vmj1d1hxjI2kEhbKy52bahLFhDc5xiMhClWbzurYfFA83OUbwLQGZpjnW+Fwu1Kq3kQ==
@@ -1986,10 +1986,10 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-stripe@^11.5.0:
-  version "11.5.0"
-  resolved "https://registry.npmjs.org/stripe/-/stripe-11.5.0.tgz"
-  integrity sha512-yjTqnzeUk2wg1yIeYWOAH6CL5qu9fINzOhqkibXfbyeWSBEBauQrfCoB8shMmREoK2qdkScz1HjahF9qUg+X3g==
+stripe@^11.18.0:
+  version "11.18.0"
+  resolved "https://registry.npmjs.org/stripe/-/stripe-11.18.0.tgz"
+  integrity sha512-OUA32uhNoSoM6wOodyFbV+3IBCoO140uzdXmBArQ0S88D4EbH91xl2v+Ml1sKalcFKUBadHLeHfU/p9AbsOfGw==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.11.0"
